@@ -1,2 +1,3 @@
 # SubdoEnum.py
-Subdomain Enumeration tool in Python
+
+First attempt at writting a little subdomain Enumeration tool in Python.
